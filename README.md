@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [A Blog App](ongoining)
+- 🔭 I’m currently working on [A Blog App](https://github.com/Panoptic08/Blog-App)
 
 - 🌱 I’m currently learning **MERN**
 
