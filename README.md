@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxwYzkzNWF4dnRmZ3JlZXd0emc3YnVraXM1eW84czMyZm1kNzlwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.webp">
+
 <h1 align="center">Hi, I'm Kartik</h1>
 <h3 align="center">Passionate tech developer specializing in Web3 and open-source.</h3>
 <img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxwYzkzNWF4dnRmZ3JlZXd0emc3YnVraXM1eW84czMyZm1kNzlwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.webp">
