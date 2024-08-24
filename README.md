@@ -1,7 +1,9 @@
-<div align="center">
-    <img src="https://media.licdn.com/dms/image/D4E12AQEPbbOJUn_4XA/article-cover_image-shrink_720_1280/0/1692533430535?e=2147483647&v=beta&t=VmxrDTVlVjWSEMSKPAGZSzFxJS1MT6k4tEnOZ_S_Wjs" alt="Banner" style="width:100%; max-width:900px;"/>
-</div>
+
 <h1 align="center">I am Kartik.</h1>
+<div align="center">
+    <img src="https://media.licdn.com/dms/image/D4E12AQEPbbOJUn_4XA/article-cover_image-shrink_720_1280/0/1692533430535?e=2147483647&v=beta&t=VmxrDTVlVjWSEMSKPAGZSzFxJS1MT6k4tEnOZ_S_Wjs" alt="Banner" style="width:80%; max-width:900px;"/>
+</div>
+
 <h3 align="center">Passionate tech developer specializing in Web3 and open-source.</h3>
 <!-- <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFlcWwwaDhpdmY5NG8yMGR6NDU2dTU3ZzhxNG01cHZmbDNoaHg2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6BBWgIxT7MZfUVWXdj/giphy.webp"> -->
 
