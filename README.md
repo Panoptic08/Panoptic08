@@ -5,7 +5,7 @@
 
 
 <div align="center">
-    <img src="https://media.licdn.com/dms/image/D4E12AQEPbbOJUn_4XA/article-cover_image-shrink_720_1280/0/1692533430535?e=2147483647&v=beta&t=VmxrDTVlVjWSEMSKPAGZSzFxJS1MT6k4tEnOZ_S_Wjs" alt="Banner" style="width:80%; max-width:100px;"/>
+    <img src="https://media.licdn.com/dms/image/D4E12AQEPbbOJUn_4XA/article-cover_image-shrink_720_1280/0/1692533430535?e=2147483647&v=beta&t=VmxrDTVlVjWSEMSKPAGZSzFxJS1MT6k4tEnOZ_S_Wjs" alt="Banner" style="width:40%; max-width:100px;"/>
 </div>
 
 <h3 align="center">Passionate tech developer specializing in Web3 and open-source.</h3>
@@ -17,9 +17,8 @@
 
 -  I regularly write articles on [https://readyy.hashnode.dev/](https://readyy.hashnode.dev/)
 
-<h3 align="left">Connect with me   <a href="https://linktr.ee/Kartik_Doda" target="blank">Everything</a>   </h3>
- <a href="https://linktr.ee/Kartik_Doda" target="blank"> <img src="https://cdn.dribbble.com/userupload/3133412/file/original-ebe33570ad97c50011405b7edb6ebb64.png?resize=1600x1200" alt="Rounded Image" style="border-radius: 50%; height: 40px;" />
-  </a>
+<h3 align="left">Connect with me   <a href="https://linktr.ee/Kartik_Doda" target="blank">"#EveryWhere"</a>   </h3>
+
 
 
 
