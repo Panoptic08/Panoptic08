@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/3133412/file/original-ebe33570ad97c50011405b7edb6ebb64.png?resize=1600x1200" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/3133412/file/original-ebe33570ad97c50011405b7edb6ebb64.png?resize=1600x1200" height="40" /></a>
 </p>
 
 
