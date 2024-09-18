@@ -17,8 +17,9 @@
 
 -  I regularly write articles on [https://readyy.hashnode.dev/](https://readyy.hashnode.dev/)
 
-<h3 align="left">Connect with me   <a href="https://linktr.ee/Kartik_Doda" target="blank">Everything</a>    <a href="https://linktr.ee/Kartik_Doda" target="blank"> <img src="https://cdn.dribbble.com/userupload/3133412/file/original-ebe33570ad97c50011405b7edb6ebb64.png?resize=1600x1200" alt="Rounded Image" style="border-radius: 50%; height: 40px;" />
-  </a></h3>
+<h3 align="left">Connect with me   <a href="https://linktr.ee/Kartik_Doda" target="blank">Everything</a>   </h3>
+ <a href="https://linktr.ee/Kartik_Doda" target="blank"> <img src="https://cdn.dribbble.com/userupload/3133412/file/original-ebe33570ad97c50011405b7edb6ebb64.png?resize=1600x1200" alt="Rounded Image" style="border-radius: 50%; height: 40px;" />
+  </a>
 
 
 
