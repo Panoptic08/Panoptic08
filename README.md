@@ -36,6 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panoptic08&show_icons=true&locale=en&layout=compact" alt="panoptic08" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panoptic08&show_icons=true&locale=en" alt="panoptic08" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panoptic08&" alt="panoptic08" /></p>
