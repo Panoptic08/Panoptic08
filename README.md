@@ -5,7 +5,7 @@
 
 
 <div align="center">
-    <img src="https://media.licdn.com/dms/image/D4E12AQEPbbOJUn_4XA/article-cover_image-shrink_720_1280/0/1692533430535?e=2147483647&v=beta&t=VmxrDTVlVjWSEMSKPAGZSzFxJS1MT6k4tEnOZ_S_Wjs" alt="Banner" style="width:80%; max-width:400px;"/>
+    <img src="https://media.licdn.com/dms/image/D4E12AQEPbbOJUn_4XA/article-cover_image-shrink_720_1280/0/1692533430535?e=2147483647&v=beta&t=VmxrDTVlVjWSEMSKPAGZSzFxJS1MT6k4tEnOZ_S_Wjs" alt="Banner" style="width:80%; max-width:300px;"/>
 </div>
 
 <h3 align="center">Passionate tech developer specializing in Web3 and open-source.</h3>
