@@ -24,11 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kartik__doda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartik__doda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kartikd4152g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartikd4152g/" height="30" width="40" /></a>
-<a href="https://instagram.com/kartik__doda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartik__doda" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://readyy.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://readyy.hashnode.dev/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@kartik_doda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@kartik_doda" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/panoptic08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="panoptic08" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
